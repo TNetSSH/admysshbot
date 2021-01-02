@@ -54,5 +54,3 @@ rm bot.zip
 
 echo "Pronto, o bot esta executando em segundo plano
 Agradeça a @httd1"
-
-fi
